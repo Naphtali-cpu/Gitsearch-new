@@ -1,5 +1,5 @@
-## Project Name
-- Github  search
+# Github Search
+
 ## Author
 -Naphtali Makori
 ## Description
