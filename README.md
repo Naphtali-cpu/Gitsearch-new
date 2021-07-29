@@ -80,8 +80,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Contacts
 
-Number:0797657305/0795663799
-Email:ongatikebaso@gmail.com
+Number:+254727991993
+Email:naphtali919@gmail.com
 
 ## license
-[MIT License](https://kebasoh.github.io/Gitsearch/blob/master/LICENSE) [kebasoh](https://github.com/kebasoh). 
+ 
