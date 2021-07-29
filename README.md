@@ -4,7 +4,7 @@
 Naphtali Makori
 ## Description
 
-- The website basically works in a way that you can search you Github account and get to explore and get to view your account in Github.
+The website basically works in a way that you can search you Github account and get to explore and get to view your account in Github.
  The project basically uses the github API to collect information that are required.Whe you ether the github name you will see the profile. 
 
 ## Technologies Used
