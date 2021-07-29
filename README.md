@@ -8,8 +8,10 @@ The website basically works in a way that you can search you Github account and 
  The project basically uses the github API to collect information that are required.Whe you ether the github name you will see the profile. 
 
 ## Technologies Used
-- This project was generated with Angular CLI version 7.1.4.
-- HTML & CSS (Bootstrap)
+This project was generated with Angular CLI version 7.1.4.
+HTML & CSS (Bootstrap)
+ANGULAR CLI
+
 ## Setup Instructions and Installation
 - Clone this repository to a location in your file system.
 - Open terminal command line then navigate to the root folder of the application.
