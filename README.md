@@ -86,7 +86,8 @@ Number:+254727991993
 
 Email:naphtali919@gmail.com
 
-## license
+## License
+Licence
 MIT License
 
 Copyright (c) [2021] [Naphtali Makori]
