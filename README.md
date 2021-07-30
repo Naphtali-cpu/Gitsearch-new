@@ -13,7 +13,7 @@ The website basically works in a way that you can search you Github account and 
 * ANGULAR CLI
 
 ## Setup Instructions and Installation
-* Clone this repository to a location in your file system.
+* Clone this repository to a location in your file system.https://github.com/Naphtali-cpu/Gitsearch-new.git
 * Open terminal command line then navigate to the root folder of the application.
 * Run ng serve command.
 * Navigate to http://localhost:4200/ in your browser.
