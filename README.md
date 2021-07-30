@@ -34,7 +34,7 @@ The website basically works in a way that you can search you Github account and 
 
 ## Development
 
-- To fix a bug or enhance an existing module, follow these steps:
+* To fix a bug or enhance an existing module, follow these steps:
 
 1. Fork the repo
 2. Create a new branch (git checkout -b improve-feature)
