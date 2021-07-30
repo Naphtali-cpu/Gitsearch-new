@@ -9,7 +9,8 @@ The website basically works in a way that you can search you Github account and 
 
 ## Technologies Used
 * This project was generated with Angular CLI version 7.1.4.
-* HTML & CSS (Bootstrap)
+* HTML
+* CSS
 * ANGULAR CLI
 
 ## Setup Instructions and Installation
