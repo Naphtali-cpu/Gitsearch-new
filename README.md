@@ -16,11 +16,9 @@ The website basically works in a way that you can search you Github account and 
 * Clone this repository to a location in your file system.
 * Open terminal command line then navigate to the root folder of the application.
 * Run ng serve command.
-* Navigate to http://localhost:4600/ in your browser.
+* Navigate to http://localhost:4200/ in your browser.
 
 ## BDD
-
-
 
  1. Displays GitHub info of a user when user name is entered
    * INPUT: "user name entered"
