@@ -23,8 +23,8 @@ The website basically works in a way that you can search you Github account and 
 
 
  1. Displays GitHub info of a user when user name is entered
-   - INPUT: "user name entered"
-   - OUTPUT: "Displays User Details"
+   * INPUT: "user name entered"
+   * OUTPUT: "Displays User Details"
  2. After searching the Github account you get to see the github profile and the you can explore more to see the github account.
 
  3. At the landing page you can also see the number of followers you have and the people you are following.
@@ -32,7 +32,7 @@ The website basically works in a way that you can search you Github account and 
 
 ## Known Bugs
 
-- I got some bugs during my project development process but i managed to solve them.
+* I got some bugs during my project development process but i managed to solve them.
 
 ## Development
 
