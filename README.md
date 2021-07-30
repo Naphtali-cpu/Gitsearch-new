@@ -72,7 +72,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/Naphtali-cpu/Gitsearch-new/edit/master/README.md).
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/Naphtali-cpu/Gitsearch-new/master/README.md).
 
 ## live link 
 https://github.com/Naphtali-cpu/Gitsearch-new
